@@ -1,0 +1,1 @@
+Este projeto será uma lista de funções diferentes para poder usar IA para aprender
